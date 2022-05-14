@@ -4,7 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.redis</groupId>
     <artifactId>spring_redis_demo</artifactId>
+    <packaging>pom</packaging>
     <version>0.0.1-SNAPSHOT</version>
+    <modules>
+        <module>websocket_demo</module>
+    </modules>
     <name>spring_redis_demo</name>
     <description>spring_redis_demo</description>
 
